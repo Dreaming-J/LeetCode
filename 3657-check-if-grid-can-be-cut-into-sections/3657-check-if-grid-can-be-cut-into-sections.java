@@ -21,7 +21,6 @@ class Solution {
             int[] rectangle = vertical.poll();
 
             if (rectangle[0] >= verticalIdx) {
-                System.out.println("수직: " + verticalIdx);
                 verticalCutSize++;
                 verticalIdx = rectangle[2];
             }
@@ -31,8 +30,6 @@ class Solution {
             }
         }
 
-        System.out.println(verticalCutSize);
-
         if (verticalCutSize >= 2)
             return true;
         
@@ -41,11 +38,7 @@ class Solution {
         while (!horizontal.isEmpty()) {
             int[] rectangle = horizontal.poll();
 
-            System.out.println(horizontalIdx);
-            System.out.println(Arrays.toString(rectangle));
-
             if (rectangle[1] >= horizontalIdx) {
-                System.out.println("수평: " + horizontalIdx);
                 horizontalCutSize++;
                 horizontalIdx = rectangle[3];
             }
@@ -55,12 +48,8 @@ class Solution {
             }
         }
 
-        System.out.println(horizontalCutSize);
-
         if (horizontalCutSize >= 2)
             return true;
-        
-
 
         return false;
     }
