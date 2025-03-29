@@ -54,6 +54,7 @@ class Solution {
         for (int idx = 0; idx < numSize; idx++)
             numOfSubarrays[idx] = ((long) nextDominant[idx] - idx) * (idx - prevDominant[idx]);
 
+        //Calculate the score
         PriorityQueue<int[]> processingQueue = new PriorityQueue<>((o1, o2) -> {
             if (o1[0] == o2[0])
                 return Integer.compare(o1[1], o2[1]);
@@ -66,7 +67,6 @@ class Solution {
         
         long score = 1;
 
-        //Calculate the score
         while (k > 0) {
             int[] top = processingQueue.poll();
             int num = top[0];
