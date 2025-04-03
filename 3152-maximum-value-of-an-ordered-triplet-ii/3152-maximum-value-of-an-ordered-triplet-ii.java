@@ -6,7 +6,7 @@ class Solution {
         int ijMax = 0; // Max value of (nums[i] - nums[j])
 
         for (int num : nums) {
-            answer = Math.max(ijMax * num, answer);
+            answer = Math.max((long) ijMax * num, answer);
 
             ijMax = Math.max(iMax - num, ijMax);
 
