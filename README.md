@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Dreaming-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dreaming-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Dreaming-J/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dreaming-J/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dreaming-J/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dreaming-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Dreaming-J/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
