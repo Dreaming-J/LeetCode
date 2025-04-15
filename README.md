@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dreaming-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Dreaming-J/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dreaming-J/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2998-count-symmetric-integers](https://github.com/Dreaming-J/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dreaming-J/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Dreaming-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dreaming-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Dreaming-J/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Tree
 |  |
 | ------- |
