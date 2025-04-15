@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dreaming-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dreaming-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Dreaming-J/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1656-count-good-triplets](https://github.com/Dreaming-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dreaming-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dreaming-J/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dreaming-J/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Dreaming-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dreaming-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
